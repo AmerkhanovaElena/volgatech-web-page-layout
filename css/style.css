@@ -1,0 +1,48 @@
+body::before {
+    display:block;
+    content: '';
+    height: 60px;
+}
+
+a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: inherit;
+    }
+
+@media(min-width: 768px) {
+    .news-input {
+        width: 50%;
+    }
+}
+
+.ilp-bg {
+    background-color: #8ebf2b;
+}
+
+.imm-bg {
+    background-color: #666;
+}
+
+.isa-bg {
+    background-color: #d42b1e;
+}
+
+.ef-bg {
+    background-color: #801f1f;
+}
+
+.rtf-bg {
+    background-color: #ec7500;
+}
+
+.fiivt-bg {
+    background-color: #b8e5ff;
+}
+
+.fst-bg {
+    background-color: #78cdcd;
+}
+
+.fup-bg {
+    background-color: #63b8ff;
+}
